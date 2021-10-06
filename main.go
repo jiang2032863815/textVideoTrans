@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"syscall"
 	"time"
-	"videoToTextVideo/imageToText"
-	"videoToTextVideo/textImage"
+	"textVideoTrans/imageToText"
+	"textVideoTrans/textImage"
 )
 
 var inputVideoPath = flag.String("i","","inputVideoPath")

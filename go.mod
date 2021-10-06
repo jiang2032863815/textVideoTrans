@@ -1,4 +1,4 @@
-module videoToTextVideo
+module textVideoTrans
 
 go 1.17
 
